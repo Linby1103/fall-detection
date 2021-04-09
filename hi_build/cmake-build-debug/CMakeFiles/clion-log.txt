@@ -1,0 +1,5 @@
+/home/workdir/IDE_tools/clion-2020.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/workdir/code/HI3559Av100/ncnn_yolov5/hi_build
+-- Project: detector
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/workdir/code/HI3559Av100/ncnn_yolov5/hi_build/cmake-build-debug

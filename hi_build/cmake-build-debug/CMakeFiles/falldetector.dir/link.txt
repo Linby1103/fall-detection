@@ -1,0 +1,1 @@
+/opt/hisi-linux/x86-arm/aarch64-himix100-linux/bin/aarch64-himix100-linux-g++ -fPIC -std=c++11 -fopenmp -fno-rtti -fno-exceptions -g  -shared -Wl,-soname,libfalldetector.so -o libfalldetector.so CMakeFiles/falldetector.dir/home/workdir/code/HI3559Av100/ncnn_yolov5/src/hi_fall_detector.cpp.o CMakeFiles/falldetector.dir/home/workdir/code/HI3559Av100/ncnn_yolov5/src/yolov5.cpp.o 

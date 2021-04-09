@@ -1,0 +1,3 @@
+/home/workdir/code/HI3559Av100/ncnn_yolov5/hi_build/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/workdir/code/HI3559Av100/ncnn_yolov5/hi_build/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/workdir/code/HI3559Av100/ncnn_yolov5/hi_build/cmake-build-debug/CMakeFiles/falldetector.dir
